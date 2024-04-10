@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: hypehouse_raw
+    tables:
+      - name: comment
+      - name: view
+      - name: like
+      - name: video
